@@ -36,7 +36,7 @@ function checkGuess() {
             }
         }
         else {
-            alert("Please guess a number between 1 & 100.");
+            alert("Invalid input");
         }
     }
 }
